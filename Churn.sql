@@ -5,7 +5,7 @@ CREATE DATABASE customer_data;
 USE customer_data;
 
 -- Create a table called 'customer_info' to store the customer data
-
+-- Create a table called 'customer_info' to store the customer data
 CREATE TABLE customer_churn (
     CustomerID INT,
     Churn INT,
